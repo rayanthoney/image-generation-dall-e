@@ -24,7 +24,7 @@
 <a href="https://github.com/rayanthoney/image-generation-dall-e" target="_blank">
 <img src="https://img.shields.io/badge/Repo-lightgrey?style=plastic&zfor-the-badge&logo=github"/>
 </a>
-<a href="-URL DEMO GOES HERE-" target="_blank">
+<a href="https://dall-e-image-ai.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-Website-green?style=plastic&zfor-the-badge&color=e8970c"/>
 </a>
 </p>
