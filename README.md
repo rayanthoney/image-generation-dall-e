@@ -1,6 +1,7 @@
 <!-- Banner Section -->
 
-# 🛠️  Full Stack MERN AI Image Generation App
+# 🛠️ Full Stack MERN AI Image Generation App
+
 ## Midjourney & DALL-E Clone
 
 <!-- ![alt tag](https://picsum.photos/600/300) -->
@@ -16,7 +17,7 @@
         <img src="client/public/img/dall-e2.png" alt="" height="100%"/>
     </a>
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+<!-- **Link to project:** http://recruiters-love-seeing-live-demos.com/ -->
 <br>
 <br>
 
@@ -31,7 +32,7 @@
 
 </div>
 
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!)..
+This Image Generator is a full-stack web application created with the MERN stack. It allows users to generate custom images with a variety of options, including text, shapes, and colors... To see how it works please follow the "Website button" link just above.
 
 ## How It's Made:
 
@@ -46,10 +47,18 @@ Write a short sentence or two about this project and what it does. Be sure to in
 </p>
 <br>
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
-<br>
+<p>
+   The application also provides an intuitive user interface for creating and editing images. With this application, users can quickly create unique images for their projects or websites. 
+   
+   This project was built based on this <span><a href="https://github.com/adrianhajdin/project_ai_mern_image_generation" target="_blank"><img src="https://img.shields.io/badge/-Tutorial-white?style=plastic&zfor-the-badge&color=b13063"/></a></span> from JSMastery.
 
+**Build and Deploy a Full Stack MERN AI Image Generation App MidJourney & DALL E Clone**
 
+  <a href='https://github.com/adrianhajdin/project_ai_mern_image_generation'>
+  <!-- link to local image -->
+      <img src="https://i.ibb.co/p0f27C2/Thumbnail-9.png" alt="" height="100%"/>
+  </a>
+</p>
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
